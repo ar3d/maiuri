@@ -1,0 +1,367 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 58,
+          "y": 236,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>ALLA SCUOLA&nbsp;</b></span></div><font face=\"Lato\"><b><div style=\"text-align: center;\">ARCHEOLOGICA ITALIANA&nbsp;</div><div style=\"text-align: center;\">DI ATENE</div></b></font>",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 528,
+      "y": 174
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 6,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Una circostanza imprevista me ne distolse. <br>S'era bandito il <b>concorso per la Scuola <br>archeologica di Roma e d’Atene</b> in antichità ed <br>epigrafia. Mi chiama l’<b>Halbherr</b> e mi consiglia e <br>mi incita a concorrere. Mio ritegno e perplessità. <br>Sapevo che a quel concorso si cimentava un <br>provetto studioso d’epigrafia cristiana <br>imparentato tra l’altro con un illustre archeologo <br>del mondo vaticano e il rischio era grave. Insiste <br>il maestro e mi accingo alla prova: non avevo che <br>un mese per la preparazione.» </font><br>",
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.37,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 794,
+      "y": 518
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 5,
+          "y": 114,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Ci fu in quel mese il tremendo terremoto di <br>Messina che sconvolse anche la vita <br>universitaria: lezioni ed esami vennero rimandati <br>e per me fu un rinvio provvidenziale. Agli esami <br>arrivai sicuro e rinfrancato e vinsi ai punti la gara. <br>Da quel momento <b>entrai nel campo <br>dell’archeologia</b> a traverso la porta dell’epigrafia <br>e delle antichità, e forse qualche collega maligno <br>osserverà che <b>la mia vocazione d’archeologo</b> si <br>deve a <b>una calamità nazionale</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 600,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.54,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 935,
+      "y": 542
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/creta/Halbherr2.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 20,
+          "scale": {
+            "x": 1.018,
+            "y": 1.018,
+            "width": 1018,
+            "height": 722.78
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 842,
+      "y": 622
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 60,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Così <b>maturai </b>nei tre anni della Scuola di Roma <br>e di Atene la <b>mia ancora grave inesperienza <br>archeologica</b>, aprendo gli occhi al gran mondo <br>della civiltà e dell’arte antica. A Creta ritrovai <br><b>Federico Halbherr</b> nella sua vera luce di <br>scavatore, felice e radioso come se fosse nella <br>sua seconda patria, sciolto e franco nella parlata <br>del dialetto cretese, popolarmente noto da un <br>capo all’altro dell’isola come il «signor Federico»: <br><b>ho kyrios Federicos</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.87,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 447,
+      "y": 440
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/creta/Halbherr1.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 39,
+          "scale": {
+            "x": 1.015,
+            "y": 1.015,
+            "width": 1014.9999999999999,
+            "height": 692.2299999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.87,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 451,
+      "y": 474
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 70,
+          "y": 270,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«...a Creta, nella bella casa della Missione <br>appartata tra le case del quartiere turco di <br>Candia e sugli scavi, si faceva proprio <b>la vita <br>militante dell’archeologo</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 899,
+      "y": 316
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/creta/candia.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 54,
+          "scale": {
+            "x": 0.7696374622356495,
+            "y": 0.7696374622356495,
+            "width": 1019,
+            "height": 657.2703927492447
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.35,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 919,
+      "y": 259
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 220,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Creta, la grande isola mediterranea, ci <br>attendeva con <b>tutta la luce delle sue civiltà <br>millenarie</b>... era <b>il più aperto e ricco orizzonte</b> <br>storico e archeologico che potesse offrirsi alle <br>giovani reclute dell'<b>archeologia mediterranea</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.13,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1322,
+      "y": 604
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/creta/creta.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 6,
+          "scale": {
+            "x": 1.486090775988287,
+            "y": 1.486090775988287,
+            "width": 1015.0000000000001,
+            "height": 760.878477306003
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.13,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1322,
+      "y": 611
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 8,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«A me toccò in sorte, con l’Oliverio, lo scavo di <br>un <b>Iséo </b>nel bel mezzo della <b>Gortina romana</b> e di <br>dissotterrare da uno dei grottoni dell’anfiteatro <br>una <b>statua dell’imperatore Antonino</b> con una <br>lunga iscrizione celebrativa di non so quanti <b>ludi <br>e coppie di gladiatori</b>: ma leggendo e numerando <br>quelle cacce e quei duelli d’età imperiale, il <br>pensiero m’andava alle <b>tauromachie </b>dell’età <br>minoica, a quei mirabili volteggiatori che, <br>puntate le mani sulle corna, scavalcavano a piè <br>pari un toro infuriato come il più bravo <b>toreadòr <br>da corrida</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1016,
+      "y": 947
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/creta/gortina.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 15,
+          "scale": {
+            "x": 0.7719033232628398,
+            "y": 0.7719033232628398,
+            "width": 1021.9999999999999,
+            "height": 720.9577039274924
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 7,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 1012,
+      "y": 977
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 58,
+        "y": 236,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>ALLA SCUOLA&nbsp;</b></span></div><font face=\"Lato\"><b><div style=\"text-align: center;\">ARCHEOLOGICA ITALIANA&nbsp;</div><div style=\"text-align: center;\">DI ATENE</div></b></font>",
+        "selected": false
+      }
+    ],
+    "z": 300,
+    "impScale": 3,
+    "rotateX": -1.57,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 528,
+    "y": 174
+  },
+  "fileName": "creta",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 884.5,
+  "overviewY": 575.5
+}

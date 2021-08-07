@@ -1,0 +1,655 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 321,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\"><b>La seconda guerra mondiale</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 695,
+      "y": 139
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 9,
+          "y": 135,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«<b>Si lavora febbrilmente</b> tra montagne di <b>terra</b> <br>e montagne di <b>sacchi</b>, a scaricare, riempire e <br>stilare come se si trattasse del <b>carico d'una nave</b>. <br>Due squadre di carpentieri drizzano e <br>inchiodano tavole e murali in castelletti e paratie <br>tra un martellamento infernale, quasi che si <br>trattasse del <b>cambio della scena</b>, di un'immensa <br>scena dietro il <b>sipario d'un teatro</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 578,
+      "y": 239
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/museo.jpg",
+          "type": "Image",
+          "x": 16,
+          "y": 3,
+          "scale": {
+            "x": 0.6573519627411843,
+            "y": 0.6573519627411843,
+            "width": 988.0000000000001,
+            "height": 759.2415169660679
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.27,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 574,
+      "y": 245
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 62,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«E così i <b>bronzi </b>della Villa dei Pisoni, le <br>Danzatrici e i Pugilatori, sono <b>scesi </b>dai loro <br>podi marmorei; i dinasti ellenistici dalle loro <br>colonne, e insieme con i filosofi, i Sileni, gli <br>Eroti delle fontane e l'elegante coppia di daini, <br>si sono rifugiati entro robuste casse negli angoli <br>delle sale, entro l'enorme spessore dei muri dei <br>passaggi delle porte, dietro una <b>coltre di sacchi</b>, <br>pieni di quella stessa nera pesante <b>sabbia <br>vulcanica</b> che li aveva tenuti per tanti secoli <br>custoditi nella morsa del terreno.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.44,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 804,
+      "y": 330
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/sala_toro_farnese.jpg",
+          "type": "Image",
+          "x": 7,
+          "y": 4,
+          "scale": {
+            "x": 0.48244348244348245,
+            "y": 0.48244348244348245,
+            "width": 1003,
+            "height": 759.3660413660414
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.44,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 819,
+      "y": 287
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 164,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Dopo il lavoro affannoso della <b>scoperta </b>nelle <br>tenebre dei cunicoli e l'ansia di rivedere il nitore <br>del metallo puro e mondo dal duro cortice del <br>magma terroso, <b>era necessario riaffondarli</b>, <br>risommergerli di nuovo per una più <b>sicura difesa <br>da ogni possibile atto di cieca e criminosa <br>follia</b> [...]».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 2000,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 652,
+      "y": 309
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«[...] Così le <b>sale</b>, <b>spenta ogni luce di colore</b> che <br>risfavillava dai quadri delle pareti di Pompei, <br>d’Ercolano, di Stabia, hanno preso anch'esse <br>la loro <b>grigia toletta di guerra</b>; sembrano <br>cappelle con gli altari velati del venerdì di <br>passione prima dell’osanna della resurrezione».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 636,
+      "y": 391
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/sala_affreschi.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 46,
+          "scale": {
+            "x": 0.49013949013949015,
+            "y": 0.49013949013949015,
+            "width": 1019,
+            "height": 663.1587301587301
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 637,
+      "y": 390
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 12,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Quando il <b>10 giugno del 1940</b> giunge la notizia <br>della <b>dichiarazione di guerra</b> da parte di <br>Mussolini, il timore sale ancor più intensamente. <br>Come <b>proteggere gli affreschi</b>? Come difendere <br>gli <b>scavi di Pompei e di Ercolano</b>, o il <b>sito <br>archeologico di Cuma</b>? Un'<b>orribile <br>consapevolezza</b> si fa spazio nello studioso: <br><b>è impossibile</b>, non si può difendere un <br>patrimonio così vasto. La sola cosa da fare é <br><b>proteggere i reperti mobili</b> nascondendoli in <br>luoghi sicuri, anche se di sicuro c'è ormai <br>ben poco.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 349,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/guerra.jpg",
+          "type": "Image",
+          "x": 225,
+          "y": 7,
+          "scale": {
+            "x": 0.7616511318242344,
+            "y": 0.7616511318242344,
+            "width": 572,
+            "height": 761.6511318242344
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 346,
+      "y": 411
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 131,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«[..] Ma come difendere le pareti dipinte <br>d’intere case a Pompei; e come salvare dalle <br>bombe la Villa dei Misteri al di fuori della <br>zona degli scavi che si poteva presumere, <br>allora, immune dagli attacchi aerei? <br>La notte del 14 e la notte del 15 i primi allarmi <br>e la prima corsa ai ricoveri non ancora allestiti».</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 436,
+      "y": 528
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/bombardamenti.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 28,
+          "scale": {
+            "x": 1.017,
+            "y": 1.017,
+            "width": 1016.9999999999999,
+            "height": 713.934
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 491,
+      "y": 542
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 1,
+          "y": 39,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Il mio primo capo-usciere, don <b>Peppino Coppola</b> <br>... ed era invero del più autentico cafonismo e <br>del più schietto galantomismo. [...] fu durante <br>l’atroce periodo dei bombardamenti il più fedele <br>nella cabina telefonica del <b>Museo</b>, di notte e di <br>giorno, a dare notizie dopo ogni <b>incursione</b>. <br>Lo trovavo sempre al suo posto.«<b>Niente di <br>nuovo?</b>», chiedevo con il cuore sospeso <br>all'apparecchio dopo le prime vaghe voci di <br>bombe cadute nei pressi del Museo. <b>«Niente di <br>nuova»</b>, rispondeva con voce calma e ferma <br>all’altro capo del filo.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 554,
+      "y": 562
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 42,
+          "y": 200,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Ma un giorno, dopo la tremenda incursione <br>nel quartiere della Posta, <b>chiedendo io <br>affannosamente notizie</b>, mi comunicò con la <br>pronuncia più forbita di cui era capace in quei <br>frangenti: «<b>La Posta non finziona... E tutta <br>divastata...</b>».»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.61,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 723,
+      "y": 589
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/napoli.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 40,
+          "scale": {
+            "x": 0.9951171875,
+            "y": 0.9951171875,
+            "width": 1019,
+            "height": 682.650390625
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.61,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 728,
+      "y": 575
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 20,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«E poiché sono arrivato al <b>momento cruciale</b> <br>della vita del Museo, chiudo questi brevi ricordi <br>con la <b>cronaca più drammatica</b> vissuta quando, <br>distrutta la mia casa, mi ricoverai con altri pochi <br>funzionari al Museo trasformato in un immenso <br>camminamento di trincee di sacchi.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.44,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 876,
+      "y": 310
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 27,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Prima nel «<b>Gabinetto delle Veneri</b>»; poi, <br>disperatamente, come Renzo sul carro degli <br>appestati, mi rifugiai nel <b>Museo segreto</b>, <br>il Museo delle curiosità impudiche, dove, <br>con i quadri schermati e velati come <b>quadri <br>di Santi sugli altari il giorno della Passione</b>, <br>potevo entrare e soggiornare senza rossore, <br>ripetendo fra me le parole sacramentali con <br>cui Padre Cristoforo aveva fatto tacere gli <br>scrupoli del Padre guardiano la notte della <br>fuga di Agnese e Lucia nel convento di <br>Pescarenico: «<b>Omnia munda mundis</b>».»</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/Venere.jpg",
+          "type": "Image",
+          "x": -605,
+          "y": -21,
+          "scale": {
+            "x": 0.21966374269005848,
+            "y": 0.21966374269005848,
+            "width": 601,
+            "height": 801.3333333333334
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1063,
+      "y": 333
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/sala_affreschi.jpg",
+          "type": "Image",
+          "x": -65,
+          "y": 0,
+          "scale": {
+            "x": 0.56998556998557,
+            "y": 0.56998556998557,
+            "width": 1185,
+            "height": 771.1904761904763
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.2,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 1057,
+      "y": 309
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 15,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«In quell’alloggio di fortuna, con la <b>gamba ferita</b> <br>da un’<b>incursione aerea</b> durante un mio ritorno <br>da Pompei, partecipai agli ultimi eventi di quel <br>tragico anno 1943: gli scontri fra partigiani e <br>tedeschi alla stretta di Salvator Rosa...; la prima <br>cerimoniosa visita d’una delegazione militare <br>alleata per la <b>requisizione del Museo</b> e le <br>tremende notizie che giungevano del <br><b>bombardamento di Montecassino</b> ove era <br>ricoverato il nostro più <b>prezioso patrimonio</b> <br>d’arte in bronzi, ori, vetri e quadri della <br>Pinacoteca.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 934,
+      "y": 472
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/montecassino.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 14,
+          "scale": {
+            "x": 0.683927370544721,
+            "y": 0.683927370544721,
+            "width": 1017.0000000000001,
+            "height": 734.5379959650303
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 929,
+      "y": 476
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 33,
+          "y": 8,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Scongiurato il guaio maggiore <br>dell’a<b>ccasermamento nel Salone degli arazzi</b> <br>delle truppe di colore in marcia per il fronte, <br>si ebbe il minor guaio dei <b>depositi della Croce <br>Rossa inglese</b>, ma il pericolo, con tutto quel <br>traffico di carriaggi, di benzina e di bombole, <br>di incendi e scoppi, non fu meno grave. <br>Cominciarono così le <b>mie zoppicanti ispezioni</b> <br>fra le <b>statue doppiamente sepolte</b> da sacchi di <br>sabbia e da quel gigantesco armamentario <br>farmaceutico, e i miei poco amorosi incontri <br>con il capitano inglese farmacista addetto al <br>deposito.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 20,
+      "selected": true,
+      "active": true,
+      "x": 954,
+      "y": 660
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/guerra/casse.jpg",
+          "type": "Image",
+          "x": 48,
+          "y": 2,
+          "scale": {
+            "x": 0.8955078125,
+            "y": 0.8955078125,
+            "width": 917,
+            "height": 762.0771484375
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 949,
+      "y": 662
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 33,
+        "y": 8,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\">«Scongiurato il guaio maggiore <br>dell’a<b>ccasermamento nel Salone degli arazzi</b> <br>delle truppe di colore in marcia per il fronte, <br>si ebbe il minor guaio dei <b>depositi della Croce <br>Rossa inglese</b>, ma il pericolo, con tutto quel <br>traffico di carriaggi, di benzina e di bombole, <br>di incendi e scoppi, non fu meno grave. <br>Cominciarono così le <b>mie zoppicanti ispezioni</b> <br>fra le <b>statue doppiamente sepolte</b> da sacchi di <br>sabbia e da quel gigantesco armamentario <br>farmaceutico, e i miei poco amorosi incontri <br>con il capitano inglese farmacista addetto al <br>deposito.»</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": -0.44,
+    "index": 20,
+    "selected": true,
+    "active": true,
+    "x": 954,
+    "y": 660
+  },
+  "fileName": "guerra",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 704.5,
+  "overviewY": 400.5
+}
