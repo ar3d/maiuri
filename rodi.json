@@ -1,0 +1,1436 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 189,
+          "y": 310,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\"><b>Alla conquista di Rodi</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 407,
+      "y": 110
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 116,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Era consulente al ministero per le nostre <br><b>Missioni</b> all’estero <b>Federico Halbherr</b> e <br>un bel giorno fui chiamato dall’ Halbherr <br>a Roma e invitato e sollecitato ad assumere <br>la direzione di quella Missione. <br>Non esitai; il ricordo di <b>Creta</b> mi portava <br>naturalmente a <b>Rodi</b>. Fu così che nel <br><b>febbraio 1914</b> solcavo le <b>acque dell’Egeo</b> <br>e cominciava <b>la mia nuova vita d’archeologo</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 333,
+      "y": 190
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/italiani3.jpg",
+          "type": "Image",
+          "x": 10,
+          "y": 102,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 333,
+      "y": 191
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 47,
+          "y": 152,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Alla Consulta non mi avevano nascosto <br>le <b>difficoltà della mia missione</b>: me le espose <br>più crudamente <b>Gerola</b> che mi attendeva <br>per installarmi nella sede della Missione <br>ed investirmi nominalmente delle <b>supreme <br>funzioni</b> di moderatore del patrimonio <br>archeologico e storico, antico e medioevale, <br>greco e latino delle <b>isole dei cavalieri</b>.»</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/gerola.jpg",
+          "type": "Image",
+          "x": 1026,
+          "y": -14,
+          "scale": {
+            "x": 0.5042735042735043,
+            "y": 0.5042735042735043,
+            "width": 590,
+            "height": 790.7008547008547
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 514,
+      "y": 261
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_4.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 30,
+          "scale": {
+            "x": 0.875968992248062,
+            "y": 0.875968992248062,
+            "width": 1017,
+            "height": 705.1550387596899
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 534,
+      "y": 261
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 2,
+          "y": 15,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Non era facile inserirsi in un <b>Comando <br>strettamente militare</b> con lo scopo precipuo <br>di <b>sostituirsi a scavatori illeciti</b> e di far cessare <br>un abuso così allettante qual era quello di <br>scavare tombe e monumenti con la speciosa <br>ragione di far trincee e baraccamenti militari. <br>Come riuscissi a vincere quella prevedibile e <br>naturale ostilità contro l’<b>archeologo guastafeste</b>, <br>e quanto merito ci avessi io e quanto maggior <br>merito le disposizioni che non dovettero <br>mancare da parte dell’allora Regio Governo e <br>del suo ottimo Ministro Marchese di San <br>Giuliano, non saprei ora dire.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 453,
+      "y": 423
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/militari_rodi.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 40,
+          "scale": {
+            "x": 0.5107769423558898,
+            "y": 0.5107769423558898,
+            "width": 1019.0000000000001,
+            "height": 682.9087719298246
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 465,
+      "y": 444
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 32,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Ho speso <b>dieci anni</b>, e i miei migliori anni, <br>a Rodi fra governatori militari e civili; <br>vi ho fatto <b>vita di guarnigione e di colonia</b>, <br>con le <b>mansioni</b> tra l’altro di <b>provveditore </b><br>agli studi, di <b>giudice</b> di tribunale e di <b>giocatore</b> <br>agli scacchi per la serale competizione <br>con qualche alto ufficiale del Comando...»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.7,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 268,
+      "y": 512
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_1.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 14,
+          "scale": {
+            "x": 0.777947932618683,
+            "y": 0.777947932618683,
+            "width": 1016,
+            "height": 741.3843797856049
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.7,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 276,
+      "y": 509
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 14,
+          "y": 120,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«...vi ho visto nascere e morire uno dei miei figli <br>tra le vampe della <b>prima guerra mondiale</b>, <br>ed avendo assolto il <b>non lieve compito</b> di iniziare <br>e organizzare l’opera della <b>Missione </b>nel <br><b>Dodecaneso</b>, di <b>trasformarla </b>e <b>convertirla </b><br>gradualmente in vero e proprio ufficio di <br><b>soprintendenza</b>, non mi si accuserà di vanità <br>se m’induco a narrare gli eventi principali di <br>quella <b>non comune esperienza di archeologo</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.92,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 160,
+      "y": 358
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_2.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 24,
+          "scale": {
+            "x": 0.643445218492717,
+            "y": 0.643445218492717,
+            "width": 1016.0000000000001,
+            "height": 715.5110829639012
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.92,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 169,
+      "y": 347
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 29,
+          "y": 317,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«<b>Il programma mi fu chiaro fin dai primi giorni <br>ed esso mirava a tre punti essenziali</b>...»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": true,
+      "active": true,
+      "x": 372,
+      "y": 332
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 23,
+          "y": 199,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«1- <b>istituzione di un Museo</b> nel principale <br>monumento della Rodi cavalleresca, <br>di quell’<b>Ospedale dei Cavalieri</b> che i turchi <br>avevano trasformato in caserma e che i nostri, <br>nella necessità delle prime installazioni militari, <br>avevano continuato ad occupare»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 859,
+      "y": 184
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_1.jpg",
+          "type": "Image",
+          "x": 10,
+          "y": 4,
+          "scale": {
+            "x": 0.5300053106744557,
+            "y": 0.5300053106744557,
+            "width": 998,
+            "height": 761.0876261285183
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 858,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_2.jpg",
+          "type": "Image",
+          "x": 169,
+          "y": 2,
+          "scale": {
+            "x": 0.3625,
+            "y": 0.3625,
+            "width": 667,
+            "height": 757.625
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 1009,
+      "y": 280
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_3.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 30,
+          "scale": {
+            "x": 0.5509209100758397,
+            "y": 0.5509209100758397,
+            "width": 1017,
+            "height": 714.5444203683641
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.15,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 837,
+      "y": 352
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_4.jpg",
+          "type": "Image",
+          "x": 105,
+          "y": 1,
+          "scale": {
+            "x": 0.4325353645266594,
+            "y": 0.4325353645266594,
+            "width": 795,
+            "height": 760.8297062023939
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 1025,
+      "y": 439
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_5.jpg",
+          "type": "Image",
+          "x": 15,
+          "y": 1,
+          "scale": {
+            "x": 0.4045081967213115,
+            "y": 0.4045081967213115,
+            "width": 987,
+            "height": 761.6889344262296
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.79,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 918,
+      "y": 559
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_6.jpg",
+          "type": "Image",
+          "x": 8,
+          "y": 4,
+          "scale": {
+            "x": 0.41420361247947457,
+            "y": 0.41420361247947457,
+            "width": 1009,
+            "height": 765.0340722495895
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.42,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 695,
+      "y": 516
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/ospedale_rodi_7.jpg",
+          "type": "Image",
+          "x": 87,
+          "y": 3,
+          "scale": {
+            "x": 0.44176060118089105,
+            "y": 0.44176060118089105,
+            "width": 823,
+            "height": 761.1535158346753
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.39,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 797,
+      "y": 673
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_3.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 30,
+          "scale": {
+            "x": 1.019,
+            "y": 1.019,
+            "width": 1018.9999999999999,
+            "height": 695.977
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 999,
+      "y": 744
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 106,
+          "y": 311,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«2- riprendere <b>l’esplorazione</b> di uno dei <br>maggiori centri archeologici dell’isola»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.87,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 1407,
+      "y": 640
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_1.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 24,
+          "scale": {
+            "x": 1.02,
+            "y": 1.02,
+            "width": 1020,
+            "height": 712.98
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.87,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 1394,
+      "y": 651
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_2.jpg",
+          "type": "Image",
+          "x": 223,
+          "y": 2,
+          "scale": {
+            "x": 0.7617135207496654,
+            "y": 0.7617135207496654,
+            "width": 569,
+            "height": 761.7135207496653
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 1576,
+      "y": 662
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_3.jpg",
+          "type": "Image",
+          "x": 6,
+          "y": 23,
+          "scale": {
+            "x": 1.014,
+            "y": 1.014,
+            "width": 1014,
+            "height": 718.926
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 1533,
+      "y": 516
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_4.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 33,
+          "scale": {
+            "x": 1.02,
+            "y": 1.02,
+            "width": 1020,
+            "height": 700.74
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.05,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 1372,
+      "y": 412
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_5.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 26,
+          "scale": {
+            "x": 1.017,
+            "y": 1.017,
+            "width": 1016.9999999999999,
+            "height": 708.8489999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 26,
+      "selected": false,
+      "active": false,
+      "x": 1600,
+      "y": 353
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_6.jpg",
+          "type": "Image",
+          "x": 273,
+          "y": 2,
+          "scale": {
+            "x": 0.7635542168674698,
+            "y": 0.7635542168674698,
+            "width": 506.99999999999994,
+            "height": 763.5542168674698
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.35,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 1445,
+      "y": 233
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_7.jpg",
+          "type": "Image",
+          "x": 238,
+          "y": 2,
+          "scale": {
+            "x": 0.7661971830985915,
+            "y": 0.7661971830985915,
+            "width": 544,
+            "height": 766.1971830985915
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.87,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "x": 1583,
+      "y": 188
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_8.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 34,
+          "scale": {
+            "x": 1.017,
+            "y": 1.017,
+            "width": 1016.9999999999999,
+            "height": 694.611
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 1779,
+      "y": 246
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_9.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 34,
+          "scale": {
+            "x": 1.019,
+            "y": 1.019,
+            "width": 1018.9999999999999,
+            "height": 688.8439999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.87,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 1821,
+      "y": 424
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/scavi_rodi_10.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 37,
+          "scale": {
+            "x": 1.016,
+            "y": 1.016,
+            "width": 1016,
+            "height": 691.896
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 1761,
+      "y": 606
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 165,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«3- <b>restaurare e conservare i monumenti storici</b> <br>medioevali e, primo fra tutti, la città di Rodi <br>miracolosamente sopravvissuta con la sua <br>possente fortificazione, con le sue chiese, i suoi <br>palazzi, le sue case, le sue strade e quella <br><b>Via dei Cavalieri</b> che era la grande via nobiliare <br>della latinità cristiana nell’oriente mediterraneo.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 32,
+      "selected": false,
+      "active": false,
+      "x": 2012,
+      "y": 658
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_5.jpg",
+          "type": "Image",
+          "x": 228,
+          "y": 2,
+          "scale": {
+            "x": 0.47837370242214533,
+            "y": 0.47837370242214533,
+            "width": 553,
+            "height": 765.3979238754325
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 33,
+      "selected": false,
+      "active": false,
+      "x": 2013,
+      "y": 662
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 63,
+          "y": 263,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Ma il <b>meglio doveva venirmi dagli scavi</b> <br>e per gli scavi dovevo prima d’ogni altra cosa <br>assicurarmi <b>scavatori e restauratore</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 34,
+      "selected": false,
+      "active": false,
+      "x": 2285,
+      "y": 622
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_1.jpg",
+          "type": "Image",
+          "x": 3,
+          "y": 12,
+          "scale": {
+            "x": 1.021,
+            "y": 1.021,
+            "width": 1020.9999999999999,
+            "height": 753.4979999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 35,
+      "selected": false,
+      "active": false,
+      "x": 2278,
+      "y": 621
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_2.jpg",
+          "type": "Image",
+          "x": 1,
+          "y": 7,
+          "scale": {
+            "x": 0.9541627689429373,
+            "y": 0.9541627689429373,
+            "width": 1020,
+            "height": 753.7885874649204
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 36,
+      "selected": false,
+      "active": false,
+      "x": 2261,
+      "y": 438
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_4.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 37,
+          "scale": {
+            "x": 1.015,
+            "y": 1.015,
+            "width": 1014.9999999999999,
+            "height": 690.1999999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 37,
+      "selected": false,
+      "active": false,
+      "x": 2477,
+      "y": 498
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_5.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 41,
+          "scale": {
+            "x": 1.016,
+            "y": 1.016,
+            "width": 1016,
+            "height": 683.768
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.76,
+      "index": 38,
+      "selected": false,
+      "active": false,
+      "x": 2453,
+      "y": 328
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_6.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 27,
+          "scale": {
+            "x": 0.8904469763365469,
+            "y": 0.8904469763365469,
+            "width": 1016,
+            "height": 705.2340052585452
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.49,
+      "index": 39,
+      "selected": false,
+      "active": false,
+      "x": 2289,
+      "y": 258
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_8.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 33,
+          "scale": {
+            "x": 1.017,
+            "y": 1.017,
+            "width": 1016.9999999999999,
+            "height": 700.713
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.17,
+      "index": 40,
+      "selected": false,
+      "active": false,
+      "x": 2487,
+      "y": 144
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_9.jpg",
+          "type": "Image",
+          "x": 5,
+          "y": 30,
+          "scale": {
+            "x": 1.016,
+            "y": 1.016,
+            "width": 1016,
+            "height": 702.056
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 41,
+      "selected": false,
+      "active": false,
+      "x": 2676,
+      "y": 278
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_10.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 28,
+          "scale": {
+            "x": 1.015,
+            "y": 1.015,
+            "width": 1014.9999999999999,
+            "height": 702.3799999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.7,
+      "index": 42,
+      "selected": false,
+      "active": false,
+      "x": 2686,
+      "y": 458
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 12,
+          "y": 167,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Seppi a caso che un turco addetto al monopolio <br>tabacchi della dogana turca faceva il piccolo <br><b>commercio antiquario e il restauratore per <br>proprio conto e d’altri</b>; si chiamava <b>Hussein <br>Effendi</b>. Riuscìi non senza fatica a strapparlo <br>al nostro ufficio di monopolio e ad aggregarlo <br>al Museo.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 43,
+      "selected": false,
+      "active": false,
+      "x": 3054,
+      "y": 572
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 25,
+          "y": 68,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Era il più gran <b>galantuomo </b>che io abbia avuto <br>alle mie dipendenze in quegli anni. Venne il <br>giorno dopo la nomina a portarmi al <b>Museo </b><br>tutta la sua collezione di vasi antichi perché <br>l’incamerassi; compreso della sua nuova <br>missione, non intendeva da quel momento fare <br>più commercio di antichità ma dedicarsi <br>esclusivamente ai restauri del molto cocciame <br>che cominciava ad affluire al Museo: <b>debbo <br>pertanto a lui se potei esporre quel che <br>scavavo</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 44,
+      "selected": false,
+      "active": false,
+      "x": 3100,
+      "y": 463
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_11.jpg",
+          "type": "Image",
+          "x": 2,
+          "y": 56,
+          "scale": {
+            "x": 1.019,
+            "y": 1.019,
+            "width": 1018.9999999999999,
+            "height": 626.685
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 45,
+      "selected": false,
+      "active": false,
+      "x": 3095,
+      "y": 474
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_12.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 9,
+          "scale": {
+            "x": 1.021,
+            "y": 1.021,
+            "width": 1020.9999999999999,
+            "height": 740.2249999999999
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.37,
+      "index": 46,
+      "selected": false,
+      "active": false,
+      "x": 3438,
+      "y": 325
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/jalisos_13.jpg",
+          "type": "Image",
+          "x": 0,
+          "y": 72,
+          "scale": {
+            "x": 1.019,
+            "y": 1.019,
+            "width": 1018.9999999999999,
+            "height": 594.077
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.28,
+      "index": 47,
+      "selected": false,
+      "active": false,
+      "x": 3061,
+      "y": 262
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 11,
+          "y": 133,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Quanto a scavatori non durai fatica a trovarne. <br>I più famosi<b> depredatori di tombe</b>, <b>tymborychoi</b>, <br>erano due villici: <b>Agapitòs </b>del villaggio di Fanes <br>e <b>Gheorghios </b>del villaggio di Calavarda <br>nell’antico distretto di Camiros. Agapitòs <br>barbuto vigoroso energico nei gesti e nelle <br>parole, Gheorghios magro e mingherlino, <br>associati in quell’<b>esercizio professionale di <br>scavatori di sepolcri.</b>»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 48,
+      "selected": false,
+      "active": false,
+      "x": 3415,
+      "y": 591
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_3.jpg",
+          "type": "Image",
+          "x": 236,
+          "y": 1,
+          "scale": {
+            "x": 0.5892661555312158,
+            "y": 0.5892661555312158,
+            "width": 538,
+            "height": 760.7426067907995
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 49,
+      "selected": false,
+      "active": false,
+      "x": 3439,
+      "y": 649
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 29,
+        "y": 317,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\">«<b>Il programma mi fu chiaro fin dai primi giorni <br>ed esso mirava a tre punti essenziali</b>...»</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 11,
+    "selected": true,
+    "active": true,
+    "x": 372,
+    "y": 332
+  },
+  "fileName": "rodi",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 1799.5,
+  "overviewY": 427
+}
