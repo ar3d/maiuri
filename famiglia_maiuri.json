@@ -1,0 +1,230 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 276,
+          "y": 280,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 96,
+          "text": "<font face=\"Lato\"><b>La famiglia</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 400,
+      "impScale": 2,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 591,
+      "y": 105
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 107,
+          "y": 187,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Venivo da una famiglia <br>di <b>medi proprietari terrieri</b> passata, <br>in virtù di qualche carica ecclesiastica <br>e dell’esercizio dell'avvocatura, <br><b>dall’amministrazione diretta della terra <br>alla classe dei notabili</b>...»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.7,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 558,
+      "y": 336
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/famiglia/veroli.jpg",
+          "type": "Image",
+          "x": -318,
+          "y": -137,
+          "scale": {
+            "x": 1.5546296296296296,
+            "y": 1.5546296296296296,
+            "width": 1679,
+            "height": 1097.5685185185184
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.7,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 517,
+      "y": 327
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 48,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«...mio nonno <b>governava i campi</b> con l’accetta <br>e la forbice del potatore alla cintola; <br>mio padre invece, <b>avvocato e notaio</b>, <br>era diventato <b>sindaco del Comune</b> <br>dopo acerbe lotte con altri signorotti locali...»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 1053,
+      "y": 262
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/famiglia/contadino.jpg",
+          "type": "Image",
+          "x": -318,
+          "y": -191,
+          "scale": {
+            "x": 1.715,
+            "y": 1.715,
+            "width": 1715,
+            "height": 1509.2
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1154,
+      "y": 189
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 98,
+          "y": 174,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«...ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": true,
+      "x": 963,
+      "y": 470
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/famiglia/seminaristi.png",
+          "type": "Image",
+          "x": -311,
+          "y": -194,
+          "scale": {
+            "x": 1.6540000000000001,
+            "y": 1.6540000000000001,
+            "width": 1654.0000000000002,
+            "height": 1250.4240000000002
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 969,
+      "y": 565
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 98,
+        "y": 174,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\">«...ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>.»</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 5,
+    "selected": false,
+    "active": true,
+    "x": 963,
+    "y": 470
+  },
+  "fileName": "famiglia_maiuri",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 835.5,
+  "overviewY": 335
+}
