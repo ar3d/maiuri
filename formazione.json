@@ -1,0 +1,339 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 128,
+          "y": 294,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\"><b>Gli anni della formazione</b></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 674,
+      "y": 134
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/formazione/seminaristi.jpg",
+          "type": "Image",
+          "x": 22,
+          "y": -8,
+          "scale": {
+            "x": 0.6227735368956744,
+            "y": 0.6227735368956744,
+            "width": 979.0000000000001,
+            "height": 762.8975826972011
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 531,
+      "y": 260
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 226,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«...per sottrarmi a quella <b>mancata vocazione</b> <br>avevo, con un inatteso <b>atto di ribellione</b>, <br>rifiutato la <b>clausura in seminario</b> e dichiarato <br>fermamente di <b>voler continuare</b> da me gli <br><b>studi liceali</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.52,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 515,
+      "y": 222
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 31,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Cosa facessi e riuscissi a fare nella mia vecchia <br>casa di paese, in quegli inverni gelidi e nebbiosi <br>sul fiume, oggetto di silenziose rampogne e <br>di mal celate tenerezze, fra tetre malinconie <br>leopardiane e furori carducciani, non so. <br>Ricordo solo di <b>essermi saturato di letture</b> <br>di Omero, di Virgilio, di Orazio, di Cicerone, <br>e di quanti classici italiani mi riusciva di <br>comperare con i piccioli che guadagnavo <br>ricopiando gli strumenti notarili di mio padre e <br>ricorrendo alla tenerezza di nonna Maria accorta <br>amministratrice di formaggi e di lana di pecore.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 300,
+      "impScale": 1,
+      "rotateX": -1.57,
+      "rotateY": 0.52,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 505,
+      "y": 354
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 0,
+          "y": 43,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Con quell’arruffato bagaglio ricordo d’aver fatto <br>agli <b>esami di privatista</b> una <b>gran bella figura in <br>tutte le materie e pessima in matematica e <br>fisica</b>, essendomi servito di vecchi libri pescati <br>nella biblioteca paterna sproporzionati per mole <br>e contenuto al grado dei miei studi e, quel ch'è <br>peggio, non conformi ai programmi scolastici. <br>E quando finalmente ottenni di poter <br>frequentare regolarmente a Roma il <b>liceo <br>Visconti</b>, portai con me sui banchi di scuola <br><b>quella mia eccessiva ineguale e disorganica <br>preparazione di autodidatta</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 721,
+      "y": 238
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/formazione/visconti.jpg",
+          "type": "Image",
+          "x": 184,
+          "y": 4,
+          "scale": {
+            "x": 0.7622641509433963,
+            "y": 0.7622641509433963,
+            "width": 606,
+            "height": 762.2641509433963
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.26,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 724,
+      "y": 255
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 4,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«All'<b>Università</b> entrai con l’aria timida e <br>impacciata che s'aveva allora <b>noi giovani di <br>provincia</b> forniti di magre risorse <b>dinanzi ai <br>giovani della buona borghesia romana</b>, sicuri <br>di sé, forti del nome, delle ricchezze, delle <br>professioni, delle amicizie, del patrocinio politico <br>di quella Roma che  sembrava, con i salotti e <br>i circoli mondani e letterari, continuare una sua <br>seconda vita ottocentesca.\n<br></font>L'Università era alla « Sapienza » sotto l’insegna <br>della guglia del Borromini che sembrava <br>temperare, con quell’ardito svolazzo elicoidale, <br>l’austerità del portico e del loggiato.»<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 707,
+      "y": 405
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/formazione/sapienza.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 43,
+          "scale": {
+            "x": 0.8475,
+            "y": 0.8475,
+            "width": 1017,
+            "height": 675.4575
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 5,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.17,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 719,
+      "y": 461
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 4,
+          "y": 12,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Seguivo in quegli anni il corso libero di letteratura bizantina di Nicola Festa: s’era in pochi ed io, a causa forse di quella mia incertezza, mi lasciai attrarre dal mare salso della filologia bizantina. Ebbi la tesi su Teodoro Prodromo il poeta più fastidiosamente versaiuolo, più cortigiano e più dimesso alla corte dei Comneni e, per due anni almeno, non vissi che tra i volumi della Byzantinische Zettschrift: e Teodoro Prodromo mi iniziò alla lettura dei codici greci, prima alla Vaticana, poi all’Ambrosiana e alla Marciana alla ricerca di altri testi inediti di quello sciaguratissimo poligrafo.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0.4,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 636,
+      "y": 476
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 30,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Frutto di quella mia febbre fu, oltre la laurea, <br>una raccolta d’inediti prodromei negli Atti <br>dell’Accademia dei Lincei e, quel che feci di <br>più gusto, la pubblicazione di un’inedita poesia <br>in greco volgare in cui il nostro Prodromo <br>racconta le sue disgrazie di marito e di poeta <br>affamato, fa insomma lo Ptochoprodromo. <br>Me n’ero così infatuato da vedere in quelle<br>&nbsp;sguaiataggini un’intenzione mimica e <br>giullaresca.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 700,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.17,
+      "index": 9,
+      "selected": true,
+      "active": true,
+      "x": 446,
+      "y": 520
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/formazione/prodromo.jpg",
+          "type": "Image",
+          "x": 232,
+          "y": 0,
+          "scale": {
+            "x": 0.543,
+            "y": 0.543,
+            "width": 543,
+            "height": 764.0010000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.7,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 472,
+      "y": 570
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 30,
+        "y": 99,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\">«Frutto di quella mia febbre fu, oltre la laurea, <br>una raccolta d’inediti prodromei negli Atti <br>dell’Accademia dei Lincei e, quel che feci di <br>più gusto, la pubblicazione di un’inedita poesia <br>in greco volgare in cui il nostro Prodromo <br>racconta le sue disgrazie di marito e di poeta <br>affamato, fa insomma lo Ptochoprodromo. <br>Me n’ero così infatuato da vedere in quelle<br>&nbsp;sguaiataggini un’intenzione mimica e <br>giullaresca.»</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 700,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": -1.17,
+    "index": 9,
+    "selected": true,
+    "active": true,
+    "x": 446,
+    "y": 520
+  },
+  "fileName": "formazione",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 585,
+  "overviewY": 352
+}
