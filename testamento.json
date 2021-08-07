@@ -1,0 +1,408 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 300,
+          "y": 301,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 72,
+          "text": "<font face=\"Lato\"><b>Il testamento</b></font>",
+          "selected": false
+        }
+      ],
+      "z": 500,
+      "impScale": 3,
+      "rotateX": -1.57,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 571,
+      "y": 276
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/maiuri.jpg",
+          "type": "Image",
+          "x": 108,
+          "y": 3,
+          "scale": {
+            "x": 0.9296600234466589,
+            "y": 0.9296600234466589,
+            "width": 793,
+            "height": 759.5322391559203
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 701,
+      "y": 508
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 73,
+          "y": 207,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«…<b>Fui chiamato</b> alla <b>Soprintendenza alle <br>Antichità di Napoli</b> nell’agosto <b>1924</b>, <br>in un momento eccezionale, dopo l’<b>inchiesta</b> <br>cioé condotta sul precedente Soprintendente <br><b>Vittorio Spinazzola</b>…»</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/spinazzola.jpg",
+          "type": "Image",
+          "x": -462,
+          "y": 7,
+          "scale": {
+            "x": 1.7227722772277225,
+            "y": 1.7227722772277225,
+            "width": 521.9999999999999,
+            "height": 754.5742574257424
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 570,
+      "y": 401
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/museo.jpg",
+          "type": "Image",
+          "x": 37,
+          "y": 2,
+          "scale": {
+            "x": 0.49114583333333334,
+            "y": 0.49114583333333334,
+            "width": 943,
+            "height": 763.240625
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.44,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 564,
+      "y": 397
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 27,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Venendo dalle <b>Isole deI Dodecanneso</b>, <br>occupate allora dall’Italia, dopo aver diretto <br>per oltre <b>dieci anni</b> la missione archeologica <br>italiana a <b>Rodi </b>e l’Ufficio della Soprintendenza <br>alle Antichità dell’Egeo, venni prescelto … <br>per la prova data di <b>capacità organizzativa <br>e scientifica</b>…»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.7,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 764,
+      "y": 391
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/ospedale_rodi_3.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 28,
+          "scale": {
+            "x": 0.551462621885157,
+            "y": 0.551462621885157,
+            "width": 1017.9999999999999,
+            "height": 715.2470205850486
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.7,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 775,
+      "y": 368
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 1,
+          "y": 95,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Purtroppo pochi ricordano in quale condizione <br>di <b>disordine morale e materiale</b> io abbia <br><b>ereditato </b>la <b>Soprintendenza di Napoli</b> nel <br>lontano <b>1924 </b>… Mi trovai con i servizi non ancora <br>riorganizzati, <b>senza personale</b>, <b>senza mezzi</b> <br><b>finanziari</b>, con gli <b>scavi chiusi</b> e l’<b>edificio del <br>Museo pericolante</b>… in un’atmosfera ancora <br>piena di sospetto e di discredito: e tutto affidato <br>al mio senso di moderazione, di equilibrio e <br>di giustizia …»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 900,
+      "y": 529
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/Museo-1927-1.jpg",
+          "type": "Image",
+          "x": 52,
+          "y": 2,
+          "scale": {
+            "x": 0.916,
+            "y": 0.916,
+            "width": 916,
+            "height": 764.86
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.26,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 888,
+      "y": 536
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 0,
+          "y": 11,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Lato\">«Se pertanto … è stato possibile portare, in questi<br></font><b>37 anni</b>, la <b>Soprintendenza alle Antichità di<br>Napoli</b> ad un livello mai raggiunto nel passato <br>con la sua <b>generale estimazione</b> della sua attività<br>culturale e scientifica, ciò si deve a capacità<br>organizzativa e costruttiva del <b>sottoscritto </b>e non<br>a carenza o deficienza della sua capacità<br>amministrativa: <b>opera spesa tutta a servizio</b><br><b>dell’Amministrazione </b>delle Antichità e Belle Arti,<br>retribuita … con il solo compenso del lavoro<br>straordinario e con un’invalidità contratta … per<br>causa di servizio durante il periodo di guerra<br>in un’incursione aerea del settembre 1943 …»&nbsp;<br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 8,
+      "selected": true,
+      "active": true,
+      "x": 768,
+      "y": 688
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/pompei.jpg",
+          "type": "Image",
+          "x": 108,
+          "y": 3,
+          "scale": {
+            "x": 0.787,
+            "y": 0.787,
+            "width": 787,
+            "height": 760.2420000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0.52,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 758,
+      "y": 709
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 91,
+          "y": 216,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 64,
+          "text": "<font face=\"Lato\">«<b>Ho la coscienza pertanto <br>di aver compiuto il mio dovere <br>di funzionario</b> e <b>di aver <br>ben meritato della pubblica <br>amministrazione</b>.»</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 1,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.61,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 565,
+      "y": 599
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/maiuri_pompei_bn.jpg",
+          "type": "Image",
+          "x": 151,
+          "y": 3,
+          "scale": {
+            "x": 0.5453149001536098,
+            "y": 0.5453149001536098,
+            "width": 710,
+            "height": 754.715821812596
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 4,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -0.61,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 537,
+      "y": 606
+    },
+    {
+      "components": [
+        {
+          "src": "https://ar3d.github.io/maiuri/immagini/testamento/firma.svg",
+          "type": "Image",
+          "x": 6,
+          "y": 132,
+          "scale": {
+            "width": 1014.4684519824697,
+            "height": 531.5099194265836
+          },
+          "imageType": "SVG",
+          "selected": false
+        }
+      ],
+      "z": 700,
+      "impScale": 2,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 705,
+      "y": 538
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 0,
+        "y": 11,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 48,
+        "text": "<font face=\"Lato\">«Se pertanto … è stato possibile portare, in questi<br></font><b>37 anni</b>, la <b>Soprintendenza alle Antichità di<br>Napoli</b> ad un livello mai raggiunto nel passato <br>con la sua <b>generale estimazione</b> della sua attività<br>culturale e scientifica, ciò si deve a capacità<br>organizzativa e costruttiva del <b>sottoscritto </b>e non<br>a carenza o deficienza della sua capacità<br>amministrativa: <b>opera spesa tutta a servizio</b><br><b>dell’Amministrazione </b>delle Antichità e Belle Arti,<br>retribuita … con il solo compenso del lavoro<br>straordinario e con un’invalidità contratta … per<br>causa di servizio durante il periodo di guerra<br>in un’incursione aerea del settembre 1943 …»&nbsp;<br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 1,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0.52,
+    "index": 8,
+    "selected": true,
+    "active": true,
+    "x": 768,
+    "y": 688
+  },
+  "fileName": "testamento",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 718.5,
+  "overviewY": 492.5
+}
