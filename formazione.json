@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 674,
       "y": 134
     },
@@ -223,15 +223,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 4,
-          "y": 12,
+          "x": 18,
+          "y": 11,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
-          "size": 48,
-          "text": "<font face=\"Lato\">«Seguivo in quegli anni il corso libero di letteratura bizantina di Nicola Festa: s’era in pochi ed io, a causa forse di quella mia incertezza, mi lasciai attrarre dal mare salso della filologia bizantina. Ebbi la tesi su Teodoro Prodromo il poeta più fastidiosamente versaiuolo, più cortigiano e più dimesso alla corte dei Comneni e, per due anni almeno, non vissi che tra i volumi della Byzantinische Zettschrift: e Teodoro Prodromo mi iniziò alla lettura dei codici greci, prima alla Vaticana, poi all’Ambrosiana e alla Marciana alla ricerca di altri testi inediti di quello sciaguratissimo poligrafo.»</font><br>",
+          "size": 47,
+          "text": "<font face=\"Lato\">«Seguivo in quegli anni il corso libero di <br>letteratura bizantina di Nicola Festa: s’era in <br>pochi ed io, a causa forse di quella mia <br>incertezza, mi lasciai attrarre dal mare salso <br>della filologia bizantina. Ebbi la tesi su Teodoro <br>Prodromo il poeta più fastidiosamente <br>versaiuolo, più cortigiano e più dimesso alla <br>corte dei Comneni e, per due anni almeno, non <br>vissi che tra i volumi della Byzantinische <br>Zeitschrift: e Teodoro Prodromo mi iniziò alla <br>lettura dei codici greci, prima alla Vaticana,&nbsp;poi <br>all’Ambrosiana e alla Marciana alla ricerca&nbsp;di altri <br>testi inediti di quello sciaguratissimo poligrafo».</font><br>",
           "selected": false
         }
       ],
@@ -268,8 +268,8 @@
       "rotateY": 0,
       "rotateZ": -1.17,
       "index": 9,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 446,
       "y": 520
     },
@@ -306,28 +306,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 30,
-        "y": 99,
+        "x": 128,
+        "y": 294,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 48,
-        "text": "<font face=\"Lato\">«Frutto di quella mia febbre fu, oltre la laurea, <br>una raccolta d’inediti prodromei negli Atti <br>dell’Accademia dei Lincei e, quel che feci di <br>più gusto, la pubblicazione di un’inedita poesia <br>in greco volgare in cui il nostro Prodromo <br>racconta le sue disgrazie di marito e di poeta <br>affamato, fa insomma lo Ptochoprodromo. <br>Me n’ero così infatuato da vedere in quelle<br>&nbsp;sguaiataggini un’intenzione mimica e <br>giullaresca.»</font><br>",
+        "size": 72,
+        "text": "<font face=\"Lato\"><b>Gli anni della formazione</b></font><br>",
         "selected": false
       }
     ],
-    "z": 700,
-    "impScale": 1,
-    "rotateX": 0,
+    "z": 500,
+    "impScale": 3,
+    "rotateX": -1.57,
     "rotateY": 0,
-    "rotateZ": -1.17,
-    "index": 9,
+    "rotateZ": 0,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 446,
-    "y": 520
+    "x": 674,
+    "y": 134
   },
   "fileName": "formazione",
   "deckVersion": "1.0",
