@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 407,
       "y": 110
     },
@@ -39,7 +39,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Era consulente al ministero per le nostre <br><b>Missioni</b> all’estero <b>Federico Halbherr</b> e <br>un bel giorno fui chiamato dall’ Halbherr <br>a Roma e invitato e sollecitato ad assumere <br>la direzione di quella Missione. <br>Non esitai; il ricordo di <b>Creta</b> mi portava <br>naturalmente a <b>Rodi</b>. Fu così che nel <br><b>febbraio 1914</b> solcavo le <b>acque dell’Egeo</b> <br>e cominciava <b>la mia nuova vita d’archeologo</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Era consulente al ministero per le nostre <br><b>Missioni</b> all’estero <b>Federico Halbherr</b> e <br>un bel giorno fui chiamato dall’Halbherr <br>a Roma e invitato e sollecitato ad assumere <br>la direzione di quella Missione. <br>Non esitai; il ricordo di <b>Creta</b> mi portava <br>naturalmente a <b>Rodi</b>. Fu così che nel <br><b>febbraio 1914</b> solcavo le <b>acque dell’Egeo</b> <br>e cominciava <b>la mia nuova vita d’archeologo</b>.»</font><br>",
           "selected": false
         }
       ],
@@ -51,8 +51,8 @@
       "index": 1,
       "selected": false,
       "active": false,
-      "x": 333,
-      "y": 190
+      "x": 359,
+      "y": 152
     },
     {
       "components": [
@@ -77,8 +77,8 @@
       "index": 2,
       "selected": false,
       "active": false,
-      "x": 333,
-      "y": 191
+      "x": 307,
+      "y": 163
     },
     {
       "components": [
@@ -336,8 +336,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 11,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 372,
       "y": 332
     },
@@ -1217,7 +1217,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Seppi a caso che un turco addetto al monopolio <br>tabacchi della dogana turca faceva il piccolo <br><b>commercio antiquario e il restauratore per <br>proprio conto e d’altri</b>; si chiamava <b>Hussein <br>Effendi</b>. Riuscìi non senza fatica a strapparlo <br>al nostro ufficio di monopolio e ad aggregarlo <br>al Museo.»</font><br>",
+          "text": "<font face=\"Lato\">«Seppi a caso che un turco addetto al monopolio <br>tabacchi della dogana turca faceva il piccolo <br><b>commercio antiquario e il restauratore per <br>proprio conto e d’altri</b>; si chiamava <b>Hussein <br>Effendi</b>. Riuscii non senza fatica a strapparlo <br>al nostro ufficio di monopolio e ad aggregarlo <br>al Museo.»</font><br>",
           "selected": false
         }
       ],
@@ -1403,28 +1403,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 29,
-        "y": 317,
+        "x": 189,
+        "y": 310,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 48,
-        "text": "<font face=\"Lato\">«<b>Il programma mi fu chiaro fin dai primi giorni <br>ed esso mirava a tre punti essenziali</b>...»</font><br>",
+        "size": 72,
+        "text": "<font face=\"Lato\"><b>Alla conquista di Rodi</b></font>",
         "selected": false
       }
     ],
-    "z": 0,
+    "z": 500,
     "impScale": 3,
-    "rotateX": 0,
+    "rotateX": -1.57,
     "rotateY": 0,
     "rotateZ": 0,
-    "index": 11,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 372,
-    "y": 332
+    "x": 407,
+    "y": 110
   },
   "fileName": "rodi",
   "deckVersion": "1.0",
