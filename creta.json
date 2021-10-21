@@ -31,15 +31,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 6,
-          "y": 60,
+          "x": 7,
+          "y": 87,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Una circostanza imprevista me ne distolse. <br>S'era bandito il <b>concorso per la Scuola <br>archeologica di Roma e d’Atene</b> in antichità ed <br>epigrafia. Mi chiama l’<b>Halbherr</b> e mi consiglia e <br>mi incita a concorrere. Mio ritegno e perplessità. <br>Sapevo che a quel concorso si cimentava un <br>provetto studioso d’epigrafia cristiana <br>imparentato tra l’altro con un illustre archeologo <br>del mondo vaticano e il rischio era grave. Insiste <br>il maestro e mi accingo alla prova: non avevo che <br>un mese per la preparazione.» </font><br>",
+          "text": "<font face=\"Lato\">«S'era bandito il <b>concorso per la Scuola <br>archeologica di Roma e d’Atene</b> in antichità ed <br>epigrafia. Mi chiama l’<b>Halbherr</b> e mi consiglia e <br>mi incita a concorrere. Mio ritegno e perplessità. <br>Sapevo che a quel concorso si cimentava un <br>provetto studioso d’epigrafia cristiana <br>imparentato tra l’altro con un illustre archeologo <br>del mondo vaticano e il rischio era grave. Insiste <br>il maestro e mi accingo alla prova: non avevo che <br>un mese per la preparazione.» </font><br>",
           "selected": false
         }
       ],
@@ -121,7 +121,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Così <b>maturai </b>nei tre anni della Scuola di Roma <br>e di Atene la <b>mia ancora grave inesperienza <br>archeologica</b>, aprendo gli occhi al gran mondo <br>della civiltà e dell’arte antica. A Creta ritrovai <br><b>Federico Halbherr</b> nella sua vera luce di <br>scavatore, felice e radioso come se fosse nella <br>sua seconda patria, sciolto e franco nella parlata <br>del dialetto cretese, popolarmente noto da un <br>capo all’altro dell’isola come il «signor Federico»: <br><b>ho kyrios Federicos</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Così <b>maturai </b>nei tre anni della Scuola di Roma <br>e di Atene la <b>mia ancora grave inesperienza <br>archeologica</b>, aprendo gli occhi al gran mondo <br>della civiltà e dell’arte antica. A Creta ritrovai <br><b>Federico Halbherr</b> nella sua vera luce di <br>scavatore, felice e radioso come se fosse nella <br>sua seconda patria, sciolto e franco nella parlata <br>del dialetto cretese, popolarmente noto da un <br>capo all’altro dell’isola come il «signor Federico»: <br><b>o kyrios Friderikos</b>».</font><br>",
           "selected": false
         }
       ],
