@@ -39,7 +39,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Venivo da una famiglia <br>di <b>medi proprietari terrieri</b> passata, <br>in virtù di qualche carica ecclesiastica <br>e dell’esercizio dell'avvocatura, <br><b>dall’amministrazione diretta della terra <br>alla classe dei notabili</b>...»</font><br>",
+          "text": "<font face=\"Lato\">«Venivo da una famiglia <br>di <b>medi proprietari terrieri</b> passata, <br>in virtù di qualche carica ecclesiastica <br>e dell’esercizio dell'avvocatura, <br><b>dall’amministrazione diretta della terra <br>alla classe dei notabili </b>[...]».</font><br>",
           "selected": false
         }
       ],
@@ -86,7 +86,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 48,
+          "x": 24,
           "y": 207,
           "scale": {
             "x": 1,
@@ -94,7 +94,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«...mio nonno <b>governava i campi</b> con l’accetta <br>e la forbice del potatore alla cintola; <br>mio padre invece, <b>avvocato e notaio</b>, <br>era diventato <b>sindaco del Comune</b> <br>dopo acerbe lotte con altri signorotti locali...»</font><br>",
+          "text": "<font face=\"Lato\">«[...] mio nonno <b>governava i campi</b> con l’accetta <br>e la forbice del potatore alla cintola; <br>mio padre invece, <b>avvocato e notaio</b>, <br>era diventato <b>sindaco del Comune</b> <br>dopo acerbe lotte con altri signorotti locali [...]».</font><br>",
           "selected": false
         }
       ],
@@ -149,7 +149,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«...ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«[...] ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>».</font><br>",
           "selected": false
         }
       ],
@@ -159,7 +159,7 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 5,
-      "selected": false,
+      "selected": true,
       "active": true,
       "x": 963,
       "y": 470
@@ -205,7 +205,7 @@
         },
         "type": "TextBox",
         "size": 48,
-        "text": "<font face=\"Lato\">«...ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>.»</font><br>",
+        "text": "<font face=\"Lato\">«[...] ed io, <b>secondogenito </b>di tre figli, <br>ero predestinato, forse per il mio <br>apparente più mite carattere, <br>al <b>sacerdozio</b>, al fine supremo <br>di <b>salvare l'integrità dell’asse <br>patrimoniale</b>».</font><br>",
         "selected": false
       }
     ],
@@ -215,7 +215,7 @@
     "rotateY": 0,
     "rotateZ": 0,
     "index": 5,
-    "selected": false,
+    "selected": true,
     "active": true,
     "x": 963,
     "y": 470

@@ -22,8 +22,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 0,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 407,
       "y": 110
     },
@@ -39,7 +39,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Era consulente al ministero per le nostre <br><b>Missioni</b> all’estero <b>Federico Halbherr</b> e <br>un bel giorno fui chiamato dall’Halbherr <br>a Roma e invitato e sollecitato ad assumere <br>la direzione di quella Missione. <br>Non esitai; il ricordo di <b>Creta</b> mi portava <br>naturalmente a <b>Rodi</b>. Fu così che nel <br><b>febbraio 1914</b> solcavo le <b>acque dell’Egeo</b> <br>e cominciava <b>la mia nuova vita d’archeologo</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Era consulente al ministero per le nostre <br><b>Missioni</b> all’estero <b>Federico Halbherr</b> e <br>un bel giorno fui chiamato dall’Halbherr <br>a Roma e invitato e sollecitato ad assumere <br>la direzione di quella Missione. <br>Non esitai; il ricordo di <b>Creta</b> mi portava <br>naturalmente a <b>Rodi</b>. Fu così che nel <br><b>febbraio 1914</b> solcavo le <b>acque dell’Egeo</b> <br>e cominciava <b>la mia nuova vita d’archeologo</b>».</font><br>",
           "selected": false
         }
       ],
@@ -92,7 +92,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Alla Consulta non mi avevano nascosto <br>le <b>difficoltà della mia missione</b>: me le espose <br>più crudamente <b>Gerola</b> che mi attendeva <br>per installarmi nella sede della Missione <br>ed investirmi nominalmente delle <b>supreme <br>funzioni</b> di moderatore del patrimonio <br>archeologico e storico, antico e medioevale, <br>greco e latino delle <b>isole dei cavalieri</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Alla Consulta non mi avevano nascosto <br>le <b>difficoltà della mia missione</b>: me le espose <br>più crudamente <b>Gerola</b> che mi attendeva <br>per installarmi nella sede della Missione <br>ed investirmi nominalmente delle <b>supreme <br>funzioni</b> di moderatore del patrimonio <br>archeologico e storico, antico e medioevale, <br>greco e latino delle <b>isole dei cavalieri</b>».</font><br>",
           "selected": false
         },
         {
@@ -161,7 +161,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Non era facile inserirsi in un <b>Comando <br>strettamente militare</b> con lo scopo precipuo <br>di <b>sostituirsi a scavatori illeciti</b> e di far cessare <br>un abuso così allettante qual era quello di <br>scavare tombe e monumenti con la speciosa <br>ragione di far trincee e baraccamenti militari. <br>Come riuscissi a vincere quella prevedibile e <br>naturale ostilità contro l’<b>archeologo guastafeste</b>, <br>e quanto merito ci avessi io e quanto maggior <br>merito le disposizioni che non dovettero <br>mancare da parte dell’allora Regio Governo e <br>del suo ottimo Ministro Marchese di San <br>Giuliano, non saprei ora dire.»</font><br>",
+          "text": "<font face=\"Lato\">«Non era facile inserirsi in un <b>Comando <br>strettamente militare</b> con lo scopo precipuo <br>di <b>sostituirsi a scavatori illeciti</b> e di far cessare <br>un abuso così allettante qual era quello di <br>scavare tombe e monumenti con la speciosa <br>ragione di far trincee e baraccamenti militari. <br>Come riuscissi a vincere quella prevedibile e <br>naturale ostilità contro l’<b>archeologo guastafeste</b>, <br>e quanto merito ci avessi io e quanto maggior <br>merito le disposizioni che non dovettero <br>mancare da parte dell’allora Regio Governo e <br>del suo ottimo Ministro Marchese di San <br>Giuliano, non saprei ora dire».</font><br>",
           "selected": false
         }
       ],
@@ -216,7 +216,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Ho speso <b>dieci anni</b>, e i miei migliori anni, <br>a Rodi fra governatori militari e civili; <br>vi ho fatto <b>vita di guarnigione e di colonia</b>, <br>con le <b>mansioni</b> tra l’altro di <b>provveditore </b><br>agli studi, di <b>giudice</b> di tribunale e di <b>giocatore</b> <br>agli scacchi per la serale competizione <br>con qualche alto ufficiale del Comando...»</font><br>",
+          "text": "<font face=\"Lato\">«Ho speso <b>dieci anni</b>, e i miei migliori anni, <br>a Rodi fra governatori militari e civili; <br>vi ho fatto <b>vita di guarnigione e di colonia</b>, <br>con le <b>mansioni</b> tra l’altro di <b>provveditore </b><br>agli studi, di <b>giudice</b> di tribunale e di <b>giocatore</b> <br>agli scacchi per la serale competizione <br>con qualche alto ufficiale del Comando [...]».</font><br>",
           "selected": false
         }
       ],
@@ -271,7 +271,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«...vi ho visto nascere e morire uno dei miei figli <br>tra le vampe della <b>prima guerra mondiale</b>, <br>ed avendo assolto il <b>non lieve compito</b> di iniziare <br>e organizzare l’opera della <b>Missione </b>nel <br><b>Dodecaneso</b>, di <b>trasformarla </b>e <b>convertirla </b><br>gradualmente in vero e proprio ufficio di <br><b>soprintendenza</b>, non mi si accuserà di vanità <br>se m’induco a narrare gli eventi principali di <br>quella <b>non comune esperienza di archeologo</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«[...] vi ho visto nascere e morire uno dei miei figli <br>tra le vampe della <b>prima guerra mondiale</b>, <br>ed avendo assolto il <b>non lieve compito</b> di iniziare <br>e organizzare l’opera della <b>Missione </b>nel <br><b>Dodecaneso</b>, di <b>trasformarla </b>e <b>convertirla </b><br>gradualmente in vero e proprio ufficio di <br><b>soprintendenza</b>, non mi si accuserà di vanità <br>se m’induco a narrare gli eventi principali di <br>quella <b>non comune esperienza di archeologo</b>».</font><br>",
           "selected": false
         }
       ],
@@ -318,15 +318,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 29,
-          "y": 317,
+          "x": 30,
+          "y": 318,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«<b>Il programma mi fu chiaro fin dai primi giorni <br>ed esso mirava a tre punti essenziali</b>...»</font><br>",
+          "text": "<font face=\"Lato\">«<b>Il programma mi fu chiaro fin dai primi giorni <br>ed esso mirava a tre punti essenziali </b>[...]».</font><br>",
           "selected": false
         }
       ],
@@ -353,7 +353,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«1- <b>istituzione di un Museo</b> nel principale <br>monumento della Rodi cavalleresca, <br>di quell’<b>Ospedale dei Cavalieri</b> che i turchi <br>avevano trasformato in caserma e che i nostri, <br>nella necessità delle prime installazioni militari, <br>avevano continuato ad occupare»</font><br>",
+          "text": "<font face=\"Lato\">«1- <b>istituzione di un Museo</b> nel principale <br>monumento della Rodi cavalleresca, <br>di quell’<b>Ospedale dei Cavalieri</b> che i turchi <br>avevano trasformato in caserma e che i nostri, <br>nella necessità delle prime installazioni militari, <br>avevano continuato ad occupare».</font><br>",
           "selected": false
         }
       ],
@@ -604,7 +604,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«2- riprendere <b>l’esplorazione</b> di uno dei <br>maggiori centri archeologici dell’isola»</font><br>",
+          "text": "<font face=\"Lato\">«2- riprendere <b>l’esplorazione</b> di uno dei <br>maggiori centri archeologici dell’isola».</font><br>",
           "selected": false
         }
       ],
@@ -911,7 +911,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«3- <b>restaurare e conservare i monumenti storici</b> <br>medioevali e, primo fra tutti, la città di Rodi <br>miracolosamente sopravvissuta con la sua <br>possente fortificazione, con le sue chiese, i suoi <br>palazzi, le sue case, le sue strade e quella <br><b>Via dei Cavalieri</b> che era la grande via nobiliare <br>della latinità cristiana nell’oriente mediterraneo.»</font><br>",
+          "text": "<font face=\"Lato\">«3- <b>restaurare e conservare i monumenti storici</b> <br>medioevali e, primo fra tutti, la città di Rodi <br>miracolosamente sopravvissuta con la sua <br>possente fortificazione, con le sue chiese, i suoi <br>palazzi, le sue case, le sue strade e quella <br><b>Via dei Cavalieri</b> che era la grande via nobiliare <br>della latinità cristiana nell’oriente mediterraneo».</font><br>",
           "selected": false
         }
       ],
@@ -966,7 +966,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Ma il <b>meglio doveva venirmi dagli scavi</b> <br>e per gli scavi dovevo prima d’ogni altra cosa <br>assicurarmi <b>scavatori e restauratore</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Ma il <b>meglio doveva venirmi dagli scavi</b> <br>e per gli scavi dovevo prima d’ogni altra cosa <br>assicurarmi <b>scavatori e restauratore</b>».</font><br>",
           "selected": false
         }
       ],
@@ -1217,7 +1217,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Seppi a caso che un turco addetto al monopolio <br>tabacchi della dogana turca faceva il piccolo <br><b>commercio antiquario e il restauratore per <br>proprio conto e d’altri</b>; si chiamava <b>Hussein <br>Effendi</b>. Riuscii non senza fatica a strapparlo <br>al nostro ufficio di monopolio e ad aggregarlo <br>al Museo.»</font><br>",
+          "text": "<font face=\"Lato\">«Seppi a caso che un turco addetto al monopolio <br>tabacchi della dogana turca faceva il piccolo <br><b>commercio antiquario e il restauratore per <br>proprio conto e d’altri</b>; si chiamava <b>Hussein <br>Effendi</b>. Riuscii non senza fatica a strapparlo <br>al nostro ufficio di monopolio e ad aggregarlo <br>al Museo».</font><br>",
           "selected": false
         }
       ],
@@ -1244,7 +1244,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Era il più gran <b>galantuomo </b>che io abbia avuto <br>alle mie dipendenze in quegli anni. Venne il <br>giorno dopo la nomina a portarmi al <b>Museo </b><br>tutta la sua collezione di vasi antichi perché <br>l’incamerassi; compreso della sua nuova <br>missione, non intendeva da quel momento fare <br>più commercio di antichità ma dedicarsi <br>esclusivamente ai restauri del molto cocciame <br>che cominciava ad affluire al Museo: <b>debbo <br>pertanto a lui se potei esporre quel che <br>scavavo</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Era il più gran <b>galantuomo </b>che io abbia avuto <br>alle mie dipendenze in quegli anni. Venne il <br>giorno dopo la nomina a portarmi al <b>Museo </b><br>tutta la sua collezione di vasi antichi perché <br>l’incamerassi; compreso della sua nuova <br>missione, non intendeva da quel momento fare <br>più commercio di antichità ma dedicarsi <br>esclusivamente ai restauri del molto cocciame <br>che cominciava ad affluire al Museo: <b>debbo <br>pertanto a lui se potei esporre quel che <br>scavavo</b>».</font><br>",
           "selected": false
         }
       ],
@@ -1355,7 +1355,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Quanto a scavatori non durai fatica a trovarne. <br>I più famosi<b> depredatori di tombe</b>, <b>tymborychoi</b>, <br>erano due villici: <b>Agapitòs </b>del villaggio di Fanes <br>e <b>Gheorghios </b>del villaggio di Calavarda <br>nell’antico distretto di Camiros. Agapitòs <br>barbuto vigoroso energico nei gesti e nelle <br>parole, Gheorghios magro e mingherlino, <br>associati in quell’<b>esercizio professionale di <br>scavatori di sepolcri.</b>»</font><br>",
+          "text": "<font face=\"Lato\">«Quanto a scavatori non durai fatica a trovarne. <br>I più famosi<b> depredatori di tombe</b>, <b>tymborychoi</b>, <br>erano due villici: <b>Agapitòs </b>del villaggio di Fanes <br>e <b>Gheorghios </b>del villaggio di Calavarda <br>nell’antico distretto di Camiros. Agapitòs <br>barbuto vigoroso energico nei gesti e nelle <br>parole, Gheorghios magro e mingherlino, <br>associati in quell’<b>esercizio professionale di <br>scavatori di sepolcri</b>».</font><br>",
           "selected": false
         }
       ],
@@ -1393,8 +1393,8 @@
       "rotateY": 0,
       "rotateZ": -0.17,
       "index": 49,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 3439,
       "y": 649
     }
@@ -1402,29 +1402,30 @@
   "activeSlide": {
     "components": [
       {
-        "TextBox": {},
-        "x": 189,
-        "y": 310,
+        "src": "https://ar3d.github.io/maiuri/immagini/rodi/rodi_3.jpg",
+        "type": "Image",
+        "x": 236,
+        "y": 1,
         "scale": {
-          "x": 1,
-          "y": 1
+          "x": 0.5892661555312158,
+          "y": 0.5892661555312158,
+          "width": 538,
+          "height": 760.7426067907995
         },
-        "type": "TextBox",
-        "size": 72,
-        "text": "<font face=\"Lato\"><b>Alla conquista di Rodi</b></font>",
+        "imageType": "JPG",
         "selected": false
       }
     ],
-    "z": 500,
-    "impScale": 3,
-    "rotateX": -1.57,
+    "z": 0,
+    "impScale": 4,
+    "rotateX": 0,
     "rotateY": 0,
-    "rotateZ": 0,
-    "index": 0,
+    "rotateZ": -0.17,
+    "index": 49,
     "selected": true,
     "active": true,
-    "x": 407,
-    "y": 110
+    "x": 3439,
+    "y": 649
   },
   "fileName": "rodi",
   "deckVersion": "1.0",

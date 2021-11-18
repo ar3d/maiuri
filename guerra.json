@@ -286,7 +286,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«[..] Ma come difendere le pareti dipinte <br>d’intere case a Pompei; e come salvare dalle <br>bombe la Villa dei Misteri al di fuori della <br>zona degli scavi che si poteva presumere, <br>allora, immune dagli attacchi aerei? <br>La notte del 14 e la notte del 15 i primi allarmi <br>e la prima corsa ai ricoveri non ancora allestiti».</font><br>",
+          "text": "<font face=\"Lato\">«[...] Ma come difendere le pareti dipinte <br>d’intere case a Pompei; e come salvare dalle <br>bombe la Villa dei Misteri al di fuori della <br>zona degli scavi che si poteva presumere, <br>allora, immune dagli attacchi aerei? <br>La notte del 14 e la notte del 15 i primi allarmi <br>e la prima corsa ai ricoveri non ancora allestiti».</font><br>",
           "selected": false
         }
       ],
@@ -341,7 +341,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Il mio primo capo-usciere, don <b>Peppino Coppola</b> <br>... ed era invero del più autentico cafonismo e <br>del più schietto galantomismo. [...] fu durante <br>l’atroce periodo dei bombardamenti il più fedele <br>nella cabina telefonica del <b>Museo</b>, di notte e di <br>giorno, a dare notizie dopo ogni <b>incursione</b>. <br>Lo trovavo sempre al suo posto. «<b>Niente di <br>nuovo?</b>», chiedevo con il cuore sospeso <br>all'apparecchio dopo le prime vaghe voci di <br>bombe cadute nei pressi del Museo. <b>«Niente di <br>nuova»</b>, rispondeva con voce calma e ferma <br>all’altro capo del filo».</font><br>",
+          "text": "<font face=\"Lato\">«Il mio primo capo-usciere, don <b>Peppino Coppola</b> <br>[...] ed era invero del più autentico cafonismo e <br>del più schietto galantomismo. [...] fu durante <br>l’atroce periodo dei bombardamenti il più fedele <br>nella cabina telefonica del <b>Museo</b>, di notte e di <br>giorno, a dare notizie dopo ogni <b>incursione</b>. <br>Lo trovavo sempre al suo posto. «<b>Niente di <br>nuovo?</b>», chiedevo con il cuore sospeso <br>all'apparecchio dopo le prime vaghe voci di <br>bombe cadute nei pressi del Museo. <b>«Niente di <br>nuova»</b>, rispondeva con voce calma e ferma <br>all’altro capo del filo».</font><br>",
           "selected": false
         }
       ],
@@ -360,7 +360,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 42,
+          "x": 43,
           "y": 200,
           "scale": {
             "x": 1,
@@ -368,7 +368,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Ma un giorno, dopo la tremenda incursione <br>nel quartiere della Posta, <b>chiedendo io <br>affannosamente notizie</b>, mi comunicò con la <br>pronuncia più forbita di cui era capace in quei <br>frangenti: «<b>La Posta non finziona... E' tutta <br>divastata...</b>».</font><br>",
+          "text": "<font face=\"Lato\">«Ma un giorno, dopo la tremenda incursione <br>nel quartiere della Posta, <b>chiedendo io <br>affannosamente notizie</b>, mi comunicò con la <br>pronuncia più forbita di cui era capace in quei <br>frangenti: «<b>La Posta non finziona [...]. E' tutta <br>divastata [...]</b>».</font><br>",
           "selected": false
         }
       ],
@@ -511,7 +511,7 @@
       "components": [
         {
           "TextBox": {},
-          "x": 15,
+          "x": 6,
           "y": 35,
           "scale": {
             "x": 1,
@@ -519,7 +519,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«In quell’alloggio di fortuna, con la <b>gamba ferita</b> <br>da un’<b>incursione aerea</b> durante un mio ritorno <br>da Pompei, partecipai agli ultimi eventi di quel <br>tragico anno 1943: gli scontri fra partigiani e <br>tedeschi alla stretta di Salvator Rosa...; la prima <br>cerimoniosa visita d’una delegazione militare <br>alleata per la <b>requisizione del Museo</b> e le <br>tremende notizie che giungevano del <br><b>bombardamento di Montecassino</b> ove era <br>ricoverato il nostro più <b>prezioso patrimonio</b> <br>d’arte in bronzi, ori, vetri e quadri della <br>Pinacoteca».</font><br>",
+          "text": "<font face=\"Lato\">«In quell’alloggio di fortuna, con la <b>gamba ferita</b> <br>da un’<b>incursione aerea</b> durante un mio ritorno <br>da Pompei, partecipai agli ultimi eventi di quel <br>tragico anno 1943: gli scontri fra partigiani e <br>tedeschi alla stretta di Salvator Rosa [...]; la prima <br>cerimoniosa visita d’una delegazione militare <br>alleata per la <b>requisizione del Museo</b> e le <br>tremende notizie che giungevano del <br><b>bombardamento di Montecassino</b> ove era <br>ricoverato il nostro più <b>prezioso patrimonio</b> <br>d’arte in bronzi, ori, vetri e quadri della <br>Pinacoteca».</font><br>",
           "selected": false
         }
       ],

@@ -22,8 +22,8 @@
       "rotateY": 1.15,
       "rotateZ": 0,
       "index": 0,
-      "selected": false,
-      "active": false,
+      "selected": true,
+      "active": true,
       "x": 540,
       "y": 325
     },
@@ -39,7 +39,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«L’esistenza di un <b>antico acquedotto</b> a Venafro <br>che dalle <b>sorgenti del Volturno</b> del Monte <br>Rocchetta derivava larga copia di acque alla <br>città, con un percorso non inferiore alle <br>14 miglia, è solennemente attestata da un <b>editto <br>di Augusto</b> e da una serie di <b>cippi </b>che, rinvenuti <br>in varie epoche lungo l’acquedotto, stabiliscono <br>la zona di rispetto da lasciare ai lati del cunicolo <br>di derivazione.»</font><br>",
+          "text": "<font face=\"Lato\">«L’esistenza di un <b>antico acquedotto</b> a Venafro <br>che dalle <b>sorgenti del Volturno</b> del Monte <br>Rocchetta derivava larga copia di acque alla <br>città, con un percorso non inferiore alle <br>14 miglia, è solennemente attestata da un <b>editto <br>di Augusto</b> e da una serie di <b>cippi </b>che, rinvenuti <br>in varie epoche lungo l’acquedotto, stabiliscono <br>la zona di rispetto da lasciare ai lati del cunicolo <br>di derivazione».</font><br>",
           "selected": false
         }
       ],
@@ -92,7 +92,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Nel 1925 l’<b>Ente Autonomo del Volturno</b>, <br>eseguendo delle <b>opere di sbarramento</b> e <br>dei muri di terrazzamento per la formazione <br>di un bacino artificiale di raccolta delle sorgenti, <br>s’imbatté in cospicui <b>avanzi di strutture antiche</b> <br>in parte sotto il livello dell’acqua, in parte visibili <br>fuori acqua. Dalle indagini fatte e per il cortese <br>interessamento dell’ingegnere dei lavori, <br>sig. Bailoni Luigi, poté assodarsi che le antiche <br>strutture costituivano nel tratto subacqueo <br>un <b>grosso muro</b> in <b>opera a sacco</b> <b>parte di <br>andamento rettilineo</b>, <b>parte nel tratto più <br>sopraelevato a monte, in curva</b>.»</font><br>",
+          "text": "<font face=\"Lato\">«Nel 1925 l’<b>Ente Autonomo del Volturno</b>, <br>eseguendo delle <b>opere di sbarramento</b> e <br>dei muri di terrazzamento per la formazione <br>di un bacino artificiale di raccolta delle sorgenti, <br>s’imbatté in cospicui <b>avanzi di strutture antiche</b> <br>in parte sotto il livello dell’acqua, in parte visibili <br>fuori acqua. Dalle indagini fatte e per il cortese <br>interessamento dell’ingegnere dei lavori, <br>sig. Bailoni Luigi, poté assodarsi che le antiche <br>strutture costituivano nel tratto subacqueo <br>un <b>grosso muro</b> in <b>opera a sacco</b> <b>parte di <br>andamento rettilineo</b>, <b>parte nel tratto più <br>sopraelevato a monte, in curva</b>».</font><br>",
           "selected": false
         }
       ],
@@ -147,7 +147,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Dal lato SE delle sorgenti, costruendosi un <br>nuovo muro di cinta, sarebbe venuto in luce <br>un <b>grande pozzo antico</b> posto nella linea di <br>prolungamento del tratto di <b>muro antico</b> e <br>infine, a circa 50 metri a SE del pozzo, gli operai <br>si sarebbero imbattuti in un <b>cunicolo <br>d’acquedotto</b> a due metri di profondità dal piano <br>di campagna.»</font><br>",
+          "text": "<font face=\"Lato\">«Dal lato SE delle sorgenti, costruendosi un <br>nuovo muro di cinta, sarebbe venuto in luce <br>un <b>grande pozzo antico</b> posto nella linea di <br>prolungamento del tratto di <b>muro antico</b> e <br>infine, a circa 50 metri a SE del pozzo, gli operai <br>si sarebbero imbattuti in un <b>cunicolo <br>d’acquedotto</b> a due metri di profondità dal piano <br>di campagna».</font><br>",
           "selected": false
         }
       ],
@@ -200,7 +200,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Non v’ha dubbio che nelle costruzioni segnalate <br>dal Bailoni ... debbano riconoscersi le <b>opere di <br>derivazione dell’acquedotto venafrano</b> dalle <br>sorgenti del Volturno sotto le balze precipiti del <br>M. della Rocchetta.»</font><br>",
+          "text": "<font face=\"Lato\">«Non v’ha dubbio che nelle costruzioni segnalate <br>dal Bailoni [...] debbano riconoscersi le <b>opere di <br>derivazione dell’acquedotto venafrano</b> dalle <br>sorgenti del Volturno sotto le balze precipiti del <br>M. della Rocchetta».</font><br>",
           "selected": false
         }
       ],
@@ -227,8 +227,8 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«Aveva .. il suo <b>caput aquae</b> <br>al piede della balza a picco <br>di M. della Rocchetta  presso <br>le sorgenti stesse del Volturno.»</font><br>",
-          "selected": true
+          "text": "<font face=\"Lato\">«Aveva [...] il suo <b>caput aquae</b> <br>al piede della balza a picco <br>di M. della Rocchetta  presso <br>le sorgenti stesse del Volturno».</font><br>",
+          "selected": false
         }
       ],
       "z": 1600,
@@ -237,8 +237,8 @@
       "rotateY": 0,
       "rotateZ": 0,
       "index": 8,
-      "selected": true,
-      "active": true,
+      "selected": false,
+      "active": false,
       "x": 794,
       "y": 330
     },
@@ -246,15 +246,15 @@
       "components": [
         {
           "TextBox": {},
-          "x": 12,
-          "y": 256,
+          "x": 11,
+          "y": 257,
           "scale": {
             "x": 1,
             "y": 1
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«...quindi piegava a SE fino alla Taverna Battiloro <br>con un dislivello di m 150 circa [e attraversava]<br>il Rivolo di Rocchetta su <b>piloni e arcate di <br>sospensione</b>, di cui restano chiari avanzi.»</font><br>",
+          "text": "<font face=\"Lato\">«[...] quindi piegava a SE fino alla Taverna <br>Battiloro&nbsp;con un dislivello di m 150 circa <br>[e attraversava]&nbsp;il Rivolo di Rocchetta su <b>piloni <br>e arcate di&nbsp;sospensione</b>, di cui restano chiari <br>avanzi».</font><br>",
           "selected": false
         }
       ],
@@ -281,7 +281,7 @@
           },
           "type": "TextBox",
           "size": 48,
-          "text": "<font face=\"Lato\">«...lo <b>specus </b>si immetteva nelle <br>pendici di M. Sordo e successivamente <br>di M. Tuono, Montaquila, M. Anguno, <br>raggiungendo presso la linea ferroviaria <br>della Stazione di Roccaravindola la <br>quota di m\n</font>250.»<br>",
+          "text": "<font face=\"Lato\">«[...] lo <b>specus </b>si immetteva nelle <br>pendici di M. Sordo e successivamente <br>di M. Tuono, Montaquila, M. Anguno, <br>raggiungendo presso la linea ferroviaria <br>della Stazione di Roccaravindola la <br>quota di m\n</font>250».<br>",
           "selected": false
         }
       ],
@@ -301,28 +301,28 @@
     "components": [
       {
         "TextBox": {},
-        "x": 343,
-        "y": 464,
+        "x": 175,
+        "y": 232,
         "scale": {
           "x": 1,
           "y": 1
         },
         "type": "TextBox",
-        "size": 48,
-        "text": "<font face=\"Lato\">«Aveva .. il suo <b>caput aquae</b> <br>al piede della balza a picco <br>di M. della Rocchetta  presso <br>le sorgenti stesse del Volturno.»</font><br>",
-        "selected": true
+        "size": 72,
+        "text": "<div style=\"text-align: center;\"><span style=\"font-family: Lato;\"><b>Maiuri e&nbsp;</b></span></div><font face=\"Lato\"><b><div style=\"text-align: center;\">l'acquedotto augusteo&nbsp;</div><div style=\"text-align: center;\">di Venafro</div></b></font>",
+        "selected": false
       }
     ],
-    "z": 1600,
-    "impScale": 1,
-    "rotateX": 0,
-    "rotateY": 0,
+    "z": 500,
+    "impScale": 5,
+    "rotateX": -1.57,
+    "rotateY": 1.15,
     "rotateZ": 0,
-    "index": 8,
+    "index": 0,
     "selected": true,
     "active": true,
-    "x": 794,
-    "y": 330
+    "x": 540,
+    "y": 325
   },
   "fileName": "acquedotto_maiuri",
   "deckVersion": "1.0",
